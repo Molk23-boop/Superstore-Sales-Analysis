@@ -6,3 +6,9 @@ to uncover revenue trends, product performance and customer behaviour.
 
 ## Dataset used
 - <a href="https://www.kaggle.com/datasets/vivek468/superstore-dataset-final">Dataset</a>
+## Business Questions
+1. Which product categories are most/least profitable?
+2. Are there seasonal patterns in sales?
+3. Which customer segments drive the most revenue?
+4. Which customers are at risk of churning?
+5. Which states represent the biggest markets?
